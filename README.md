@@ -1,6 +1,6 @@
 #  Bayesian Error Estimation in the Context of Optimal Bayesian Transfer Learning
 
-Official implementation of **T**ransfer **L**earning based **B**ayesian **E**rror **E**stimator (**TL-based BEE**).
+Official implementation of **T**ransfer **L**earning-based **B**ayesian **E**rror **E**stimator (**TL-based BEE**).
 
 Omar Maddouri, Xiaoning Qian, Francis J. Alexander, Edward R. Dougherty, and Byung-Jun Yoon, [Robust importance sampling for error estimation in the context of optimal Bayesian transfer learning]
 
