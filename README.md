@@ -25,7 +25,7 @@ Omar Maddouri, Xiaoning Qian, Francis J. Alexander, Edward R. Dougherty, and Byu
 ```
 matlab simulate_mse_QDA.m
 ``` 
-**Note: For more details about the hyperparameter tuning and the experimental setup, please refer to the manuscript and the supplementary materials**
+**Note: For more details about the hyperparameter tuning and the experimental setup, please refer to the manuscript and the supplementary materials.**
 
 ## Cite
 
