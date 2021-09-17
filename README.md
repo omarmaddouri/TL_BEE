@@ -20,7 +20,7 @@ Omar Maddouri, Xiaoning Qian, Francis J. Alexander, Edward R. Dougherty, and Byu
 ## Usage
 **Note: For the QDA simulations, we provide implementations for the importance sampling setup explained in the manuscript and the direct estimate that uses the predictive posterior of the target parameters. These two implementations are controlled through the flag **sampling_mode** in the file **simulate_mse_QDA.m**.
 1) Download the GitHub repository.
-2) Uncompress all zip folders (For simulations using Schizophrenia RNA-sez data, the datasets are publically accessible at: [a link](https://github.com/mgandal/Shared-molecular-neuropathology-across-major-psychiatric-disorders-parallels-polygenic-overlap/README.md)).
+2) Uncompress all zip folders (For simulations using Schizophrenia RNA-sez data, the datasets are publically available [here](https://github.com/mgandal/Shared-molecular-neuropathology-across-major-psychiatric-disorders-parallels-polygenic-overlap#readme)).
 3) cd relevant simulation folder (i.e.: QDA_all_simulations)
 4) Run :
 ```
