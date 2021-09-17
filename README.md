@@ -20,8 +20,9 @@ Omar Maddouri, Xiaoning Qian, Francis J. Alexander, Edward R. Dougherty, and Byu
 ## Usage
 **Note: For the QDA simulations, we provide implementations for the importance sampling setup explained in the manuscript and the direct estimate that uses the predictive posterior of the target parameters. These two implementations are controlled through the flag **sampling_mode** in the file **simulate_mse_QDA.m**.
 1) Download the GitHub repository.
-2) cd relevant simulation folder (i.e.: QDA_all_simulations)
-5) Run :
+2) Uncompress all zip folders.
+3) cd relevant simulation folder (i.e.: QDA_all_simulations)
+4) Run :
 ```
 matlab simulate_mse_QDA.m
 ``` 
