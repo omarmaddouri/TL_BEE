@@ -4,7 +4,7 @@ Official implementation of **T**ransfer **L**earning-based **B**ayesian **E**rro
 
 Omar Maddouri, Xiaoning Qian, Francis J. Alexander, Edward R. Dougherty, and Byung-Jun Yoon, [Robust importance sampling for error estimation in the context of optimal Bayesian transfer learning]
 
-**NOTE: The *QDA_all_simulations* folder comprehensively reproduces all the simulation scenarios from the paper. For results with a different classifier (i.e.: LDA), only consider the classifier of interest by updating the file ''simulate_mse_QDA.m''.**
+**NOTE: The *QDA_all_simulations* folder comprehensively reproduces all the simulation scenarios from the paper. For results with a different classifier (i.e.: LDA), change the classifier of interest by updating the file ''simulate_mse_QDA.m''.**
 
 ## Dependencies
 
