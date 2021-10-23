@@ -1,4 +1,4 @@
-#  Bayesian Error Estimation in the Context of Optimal Bayesian Transfer Learning ([![DOI](https://zenodo.org/badge/407619321.svg)](https://zenodo.org/badge/latestdoi/407619321))
+#  Bayesian Error Estimation in the Context of Optimal Bayesian Transfer Learning [![DOI](https://zenodo.org/badge/407619321.svg)](https://zenodo.org/badge/latestdoi/407619321)
 
 Official implementation of **T**ransfer **L**earning-based **B**ayesian **E**rror **E**stimator (**TL-based BEE**).
 
