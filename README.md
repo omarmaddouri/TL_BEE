@@ -33,5 +33,5 @@ matlab simulate_mse_QDA.m
 Please cite our paper if you use this code in your own work.
 
 ```
-Omar Maddouri, Xiaoning Qian, Francis J. Alexander, Edward R. Dougherty, and Byung-Jun Yoon: ''Robust Importance Sampling for Error Estimation in the Context of Optimal Bayesian Transfer Learning'', Patterns, 2021.
+O. Maddouri, X. Qian, F. Alexander, E. Dougherty, B.-J. Yoon, ``Robust importance sampling for error estimation in the context of optimal Bayesian transfer learning", Patterns Cell Press, vol. 3, no. 3, pp. 100428, 2022.
 ```
