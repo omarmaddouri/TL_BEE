@@ -2,7 +2,7 @@
 
 Official implementation of **T**ransfer **L**earning-based **B**ayesian **E**rror **E**stimator (**TL-based BEE**).
 
-Omar Maddouri, Xiaoning Qian, Francis J. Alexander, Edward R. Dougherty, and Byung-Jun Yoon, [Robust importance sampling for error estimation in the context of optimal Bayesian transfer learning], Patterns, 2021.
+Omar Maddouri, Xiaoning Qian, Francis J. Alexander, Edward R. Dougherty, and Byung-Jun Yoon, "Robust importance sampling for error estimation in the context of optimal Bayesian transfer learning", Patterns Cell Press, vol. 3, no. 3, pp. 100428, 2022.
 
 **NOTE: The *QDA_all_simulations* folder comprehensively reproduces all the simulation scenarios from the paper. For results with a different classifier (i.e.: LDA), change the classifier of interest by updating the file ''simulate_mse_QDA.m''.**
 
