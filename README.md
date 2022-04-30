@@ -15,7 +15,7 @@ Omar Maddouri, Xiaoning Qian, Francis J. Alexander, Edward R. Dougherty, and Byu
 
 ## Flow chart illustrating the simulation set-up based on synthetic datasets for the performance analysis of the proposed TL-based BEE
 
-![alt text](flowchart.jpg | width=200)
+![alt text](flowchart.jpg)
 
 ## Usage
 **Note: For the QDA simulations, we provide implementations for the importance sampling setup explained in the manuscript and the direct estimate that uses the predictive posterior of the target parameters. These two implementations are controlled through the flag **sampling_mode** in the file **simulate_mse_QDA.m**.
